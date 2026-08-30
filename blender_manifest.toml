@@ -1,0 +1,15 @@
+schema_version = "1.0.0"
+
+id = "starch_vse"
+version = "1.0.0"  # Added: This is required for extensions
+name = "Starch VSE"
+tagline = "VSE enhancer with additional functionalities"
+maintainer = "Pedro Cardoso"
+
+type = "add-on"
+
+blender_version_min = "4.0.0" # Updated: Extensions system requires 4.2.0+
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
